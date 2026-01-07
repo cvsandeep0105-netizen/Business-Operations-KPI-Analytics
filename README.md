@@ -1,67 +1,62 @@
-# Business-Operations-KPI-Analytics
+Business Operations KPI Analytics Dashboard
 
-## Project Title
-Executive Business Intelligence Dashboard for KPI Monitoring and Operational Insights
+Author: Sandeep Reddy
 
-## Overview
-This project demonstrates enterprise-level Business Analyst and Business Intelligence skills by analyzing operational KPIs across multiple departments using SQL, Excel, and Power BI.
+Overview  
+This project delivers an enterprise-style Business Intelligence solution using SQL, Excel, and Microsoft Power BI. The dashboard was designed to track organizational KPIs and present actionable insights for leadership.
 
-The system is built to track and compare:
+Business Goals Addressed
 
-- Actual Revenue vs Target Revenue  
-- Actual Cost vs Planned Cost  
+- Actual vs Target Revenue tracking  
+- Operational Costs variance analysis  
+- Department-wise performance visibility  
 - Customer Satisfaction (CSAT) trends  
-- Department-wise project performance  
+- Delay Days impact analysis  
 
-## Objective
-To create a strategic analytics platform that enables management to make data-driven decisions with clear visualizations and actionable insights.
+Dataset & Approach
 
-This project focuses more on executive decision support compared to Project 1, which was mainly descriptive analytics.
+- Raw CSV data structured using SQL  
+- Relational tables prepared for analysis  
+- Excel used for KPI metric calculations  
+- Power BI used for interactive dashboards  
 
-## Tools & Technologies
-- MySQL  
-- Microsoft Excel  
-- Power BI  
-- Pivot Tables  
-- Pivot Charts  
-- DAX Measures  
+Key Techniques Used
 
-## Features
-1. Data Structuring in SQL  
-2. KPI Calculations  
-3. Interactive Dashboard  
-4. Filters and Slicers  
-5. Multi-chart Visual Analytics  
-6. Trend Analysis over 12 months  
+- SQL JOIN and aggregations  
+- Pivot-based analytics  
+- KPI calculations in Excel  
+- Power BI visualization design  
+- Trend and variance reporting  
 
-## KPIs Implemented
-- Total Employees by Department  
-- Monthly Revenue  
-- Operational Cost  
-- CSAT Score  
-- Project Count  
-- Delay Days  
+Insights Generated
 
-## Analytics Flow
-Problem -> Data -> Insights -> Decisions
+- Identification of top-performing departments  
+- Visibility on cost overruns  
+- CSAT trends by region  
+- Correlation between delays and costs  
+- Revenue contribution patterns  
 
-## Business Impact
-This dashboard helps organizations to:
+What This Project Demonstrates
 
-- Identify underperforming departments  
-- Optimize operational expenses  
-- Improve delivery efficiency  
-- Monitor customer experience  
-- Plan realistic targets  
+- Practical SQL query writing ability  
+- Strong understanding of business KPIs  
+- Capability to design professional BI dashboards  
+- Data transformation to insights workflow  
 
-## Dataset
-The project uses a simulated dataset representing 12 months of business operations data integrated between Excel and Power BI.
+Outcome  
+An interactive Power BI dashboard enabling quick assessment of organizational health.
 
-## Outcome
-This repository showcases my ability to design professional BI analytics solutions suitable for Business Analyst roles in Germany and UAE markets.
+Skills Demonstrated
 
-## Future Enhancements
-- Real-time database integration  
-- Automated data pipelines  
-- Advanced forecasting analytics
-- 
+- SQL Query Writing  
+- Power BI Dashboards  
+- Excel Analytics  
+- KPI Reporting  
+- Business Intelligence Thinking  
+
+Future Enhancements
+
+- Real-time data integration  
+- Automated Power BI refresh  
+- Predictive forecasting KPIs  
+- ER diagram documentation
